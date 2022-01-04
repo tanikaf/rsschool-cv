@@ -14,5 +14,6 @@ My Qualities
 
 + mindfulness;
 + industriousness;
++ responsibility.
 
-Language:English-A2.Russian-native
+Language:English-A2.Russian-native.
