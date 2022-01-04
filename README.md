@@ -1,1 +1,1 @@
-# rsschool-cv
+<https://tanikaf.github.io/rsschool-cv/cv>
