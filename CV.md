@@ -1,7 +1,8 @@
-﻿**Tatsiana Feshchenko** 
----
-Bookkeeping 
+﻿
+**Tatsiana Feshchenko**
+===================
 
+Bookkeeping
 Education: Belarusian Agricultural Academy
 
 Email:malek-tanya@mail.ru
@@ -9,9 +10,9 @@ Email:malek-tanya@mail.ru
 About Myself:
 I want to try myself in a different direction. I hope that programming courses will give me such an opportunity.
 
-My Qualities: 
+My Qualities
+
 + mindfulness;
 + industriousness;
 
-Language:English-A2
-
+Language:English-A2.Russian-native
